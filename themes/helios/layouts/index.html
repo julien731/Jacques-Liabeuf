@@ -1,0 +1,132 @@
+{{ partial "header.html" . }}
+<body class="homepage">
+<div id="page-wrapper">
+
+	<!-- Header -->
+	<div id="header">
+
+		<!-- Inner -->
+		{{ partial "head-home.html" . }}
+
+		<!-- Nav -->
+		{{ partial "nav.html" . }}
+
+	</div>
+
+	<!-- About -->
+	<div class="wrapper style1">
+
+		<section id="about" class="container special">
+			<header>
+				<h2>Kinésithérapie, prévention, bien-être.</h2>
+				<p>
+					Depuis 1977, je m’efforce de rééduquer et soigner tous vos problèmes
+					physiques.<br>C'est plus de 30 ans d’expérience que je met au service de votre santé et de votre
+					bien-être.
+				</p>
+			</header>
+			<div class="row">
+				<article class="8u 12u(mobile) special">
+					<a href="#" class="image featured"><img src="{{.Site.BaseURL}}images/portrait.jpg" alt=""/></a>
+
+				</article>
+				<article class="4u 12u(mobile) special">
+					<p>J’ai commencé la pratique de la kinésithérapie en 1977.</p>
+					<p>Durant toutes ces années, j’ai acquis de
+						l’expérience par l’intermédiaire d’un grand nombre de formations.</p>
+					<p>La kinésithérapie m’offre un
+						large éventail de pratiques et je ne cesse de les améliorer afin de pouvoir donner le meilleur à
+						mes patients.</p>
+					<a href="{{.Site.BaseURL}}a-propos" class="button">En savoir plus</a>
+				</article>
+			</div>
+		</section>
+
+	</div>
+
+	<!-- Services -->
+	<div class="wrapper style1">
+
+		<section id="features" class="container special">
+			<header>
+				<h2>Prestations.</h2>
+				<p>Une panoplie de prestations complète pour tous les maux.</p>
+			</header>
+			<div class="row">
+				<article class="4u 12u(mobile) special">
+					<a href="{{.Site.BaseURL}}kinesitherapie/therapeutique" class="image featured">
+						<div class="glyph">
+								<span class="med-caduceus"></span>
+						</div>
+					</a>
+					<header>
+						<h3><a href="{{.Site.BaseURL}}kinesitherapie/therapeutique">Kinésithérapie</a></h3>
+					</header>
+					<p>
+						Tous les problèmes physiques: rhumatologiques, traumatiques, neurologiques, pédiatriques...
+					</p>
+				</article>
+				<article class="4u 12u(mobile) special">
+					<a href="{{.Site.BaseURL}}osteopathie" class="image featured">
+						<div class="glyph">
+							<span class="med-skeleton"></span>
+						</div>
+					</a>
+					<header>
+						<h3><a href="{{.Site.BaseURL}}osteopathie">Ostéopathie</a></h3>
+					</header>
+					<p>
+						Problèmes fonctionnels de votre corps ; ceux qui vous font souffrir et vous gênent au quotidien.
+					</p>
+				</article>
+				<article class="4u 12u(mobile) special">
+					<a href="{{.Site.BaseURL}}kinesitherapie/prevention" class="image featured">
+						<div class="glyph">
+							<span class="med-doctor"></span>
+						</div>
+					</a>
+					<header>
+						<h3><a href="{{.Site.BaseURL}}kinesitherapie/prevention">Prévention</a></h3>
+					</header>
+					<p>
+						Prévention des altérations physiques dans les traitements de tous mes patients.
+					</p>
+				</article>
+			</div>
+		</section>
+
+	</div>
+
+	<!-- Bien-être -->
+	<div class="wrapper style2">
+
+		<article id="main" class="container special">
+			<a href="#" class="image featured"><img src="{{.Site.BaseURL}}images/bien-etre.jpg" alt=""/></a>
+			<header>
+				<h2><a href="#">Bien-être</a></h2>
+				<p>
+					Besoin de relaxation ? Vous souhaitez évacuer le stress du quotidien ?
+				</p>
+			</header>
+			<p>
+				En plus des traitements pathologiques classiques, Jacques vous propose des massages bien être et remise
+				en forme. De très nombreux «centres de remise en forme» vous proposent des massages bien être. Alors
+				pourquoi plutôt choisir un kiné pour son massage ?
+			</p>
+			<footer>
+				<a href="{{.Site.BaseURL}}bien-etre" class="button">Découvrir</a>
+			</footer>
+		</article>
+
+	</div>
+
+	<!-- Footer -->
+	{{ partial "footer.html" . }}
+
+</div>
+
+<!-- Scripts -->
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

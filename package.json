@@ -1,0 +1,10 @@
+{
+  "name": "jacques-liabeuf",
+  "version": "2.0.0",
+  "description": "Jacques Liabeuf official website",
+  "homepage": "https://jacquesliabeuf.com",
+  "devDependencies": {
+    "gulp-clean-css": "^2.0.3",
+    "gulp-sass": "^2.2.0"
+  }
+}

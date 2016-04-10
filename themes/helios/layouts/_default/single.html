@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+<body class="right-sidebar">
+<div id="page-wrapper">
+
+	<!-- Header -->
+	<div id="header">
+
+		<!-- Inner -->
+		{{ partial "head.html" . }}
+
+		<!-- Nav -->
+		{{ partial "nav.html" . }}
+
+	</div>
+
+	<!-- Main -->
+	<div class="wrapper style1">
+
+		<div class="container">
+			<div class="row 200%">
+				<div class="8u 12u(mobile)" id="content">
+					<article id="main">
+						{{.Content}}
+					</article>
+				</div>
+				{{ partial "sidebar.html" . }}
+			</div>
+		</div>
+
+	</div>
+
+	<!-- Footer -->
+	{{ partial "footer-light.html" . }}
+
+</div>
+
+<!-- Scripts -->
+{{ partial "scripts.html" . }}
+
+</body>
+</html>
