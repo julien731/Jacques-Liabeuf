@@ -5,6 +5,7 @@
   "homepage": "https://jacquesliabeuf.com",
   "devDependencies": {
     "gulp-clean-css": "^2.0.3",
-    "gulp-sass": "^2.2.0"
+    "gulp-sass": "^2.2.0",
+    "gulp-surge": "^0.1.0"
   }
 }
