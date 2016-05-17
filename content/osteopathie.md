@@ -4,7 +4,7 @@ title = "Ostéopathie"
 
 +++
 
-Diplômé de la Maison de la Thérapie Manuelle (M.T.M.), qui a été la première école d’enseignement de l’ostéopathie en France, je pratique l’ostéopathie depuis plus de quinze ans. J’ai une formation globale qui me permet de traiter des problèmes :
+Diplômé de la Maison de la Thérapie Manuelle (M.T.M.), qui a été la première école d’enseignement de l’ostéopathie en France, je pratique l’ostéopathie depuis près de vingt ans. J’ai une formation globale qui me permet de traiter des problèmes :
 
 - Ostéo-articulaires, tant au niveau du rachis que des membres,
 - Crâniens,
