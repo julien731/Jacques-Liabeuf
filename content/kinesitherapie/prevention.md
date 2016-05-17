@@ -4,13 +4,13 @@ title = "Prévention en Kinésithérapie"
 
 +++
 
-Comme tout bon kinésithérapeute, j’ai toujours prodigué des conseils à mes patients au décours de leurs traitements. Mais c’est il y a environ 25 ans que j’ai vraiment commencé à m’impliquer dans la **prévention en kinésithérapie**.
+Comme tout bon kinésithérapeute, j’ai toujours prodigué des conseils à mes patients au décours de leurs traitements. Mais c’est il y a près de 30 ans que j’ai vraiment commencé à m’impliquer dans la **prévention en kinésithérapie**.
 
 ##  Structures de prévention en kinésithérapie
 
 A l’époque Vice-président de mon syndicat départemental, j’ai été chargé d’étudier la création d’une association qui s’occuperait, au niveau du département, de gérer les actions de prévention que nous pouvons réaliser en dehors de nos cabinets. En milieu professionnel ou scolaire ainsi que pour les collectivités locales.
 
-C’est ainsi qu’est né en juin 1990 le Comité Départemental de Prévention en Kinésithérapie de la Drôme ([CDPK 26](http://formationprevention.fr)), dont j’ai été élu Président, fonction que j’occupe encore aujourd’hui.
+C’est ainsi qu’est né en juin 1990 le Comité Départemental de Prévention en Kinésithérapie de la Drôme ([CDPK 26](http://formationprevention.fr)), dont j’ai été élu Président. Devenu aujourd'hui Kiné Drôme Ardèche Prévention, cette association s'est beaucoup développée et j'en suis aujourd'hui le Vice-président.
 
 A la même époque, des confrères installés dans d’autres départements suivaient la même démarche et créaient leur propre CDPK.
 
