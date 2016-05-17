@@ -19,4 +19,4 @@ La kinésithérapie est la connaissance du corps humain, de son fonctionnement, 
 - Drainage lymphatique
 - Massage découverte
 
-**Tous les massages sont proposés au tarif unique de 38€.**
+**Tous les massages sont proposés au tarif unique de 40 €.**
