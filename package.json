@@ -2,8 +2,18 @@
   "name": "jacques-liabeuf",
   "version": "2.0.0",
   "description": "Jacques Liabeuf official website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julien731/Jacques-Liabeuf.git"
+  },
+  "author": "Julien Liabeuf <julien@liabeuf.fr>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tannytann/tannytann.github.io/issues"
+  },
   "homepage": "https://jacquesliabeuf.com",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.3",
     "gulp-sass": "^2.2.0",
     "gulp-surge": "^0.1.0"
