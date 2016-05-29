@@ -55,3 +55,4 @@ gulp.task('deploy', [], function () {
 });
 
 gulp.task('css', ['sass', 'minify-css']);
+gulp.task('js', ['js-minify', 'js-concat']);
