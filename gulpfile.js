@@ -50,7 +50,7 @@ gulp.task('js-concat', function () {
 gulp.task('deploy', [], function () {
     return surge({
         project: './public',         // Path to your static build directory
-        domain: 'jacquesliabeuf.surge.sh'  // Your domain or Surge subdomain
+        domain: 'jacquesliabeuf.com'  // Your domain or Surge subdomain
     })
 });
 
