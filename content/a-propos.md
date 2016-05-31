@@ -14,12 +14,7 @@ Certains métiers sont malheureusement figés : une fois la formation terminée 
 
 Dans la kinésithérapie, j’ai l’occasion de suivre régulièrement de nouvelles formations : nouvelles méthodes de soins, abord de nouveaux domaines de traitement, perfectionnement de méthodes actuelles… Le domaine médical évolue en permanence, au fil des découvertes et de la compréhension du corps humain. De ce fait, la kinésithérapie évolue en parallèle.
 
-DSCN0960
-DSCN0967
-2007-03-17 09.20.31
-
-2007-03-17 09.21.41
-2007-04-29 08.46.38
+{{< figure src="/images/6eme-congres-cnpk.jpg" title="Jacques Liabeuf au 6ème Congrès du CNPK" >}}
 
 J’exerce un métier qui bouge, un métier que je pratiquerai peut-être demain d’une façon différente de celle d’hier. C’est ce dynamisme dans la manière d’aborder la kinésithérapie qui me plaît; qui me pousse à rester en éveil et à essayer de mieux comprendre le corps.
 
