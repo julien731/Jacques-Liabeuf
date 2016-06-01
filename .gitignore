@@ -110,4 +110,4 @@ node_modules
 # Ignore dynamically generated minified scripts
 /themes/helios/static/js/main.min.js
 /themes/helios/static/js/util.min.js
-/themes/helios/static/js/dist.js
+/themes/helios/static/js/dist.min.js
