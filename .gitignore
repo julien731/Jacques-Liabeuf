@@ -107,6 +107,10 @@ build/Release
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
+# Ignore dynamically generated styles
+/themes/helios/static/css/ie8.css
+/themes/helios/static/css/main.css
+
 # Ignore dynamically generated minified scripts
 /themes/helios/static/js/main.min.js
 /themes/helios/static/js/util.min.js
