@@ -9,6 +9,10 @@
 	<title>{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	{{ if isset .Params "noindex" }}
+	<meta name="robots" content="noindex">
+	{{ end }}
+
 	<!--[if lte IE 8]><script src="{{.Site.BaseURL}}js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="{{.Site.BaseURL}}css/main.css" />
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}css/ie8.css" /><![endif]-->
